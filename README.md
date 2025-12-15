@@ -3,7 +3,8 @@
 Приложение для управления умным домом
 Мой дипломный проект, выполненный в Яндекс Практикуме во время обучения по программе "Системный аналитик". Была поставлена задача разработать требования к приложению Stets Home для управления умным домом. На основании записи интервью с заинтересованными лицами я сформулировала требования к приложению и подготовила следующие артефакты:
 
-Карта пользовательских историй, критерии и сценарии приемки: https://miro.com/welcomeonboard/VklkQWV0ZnR2Q2Q4cjEvTVFSS1g5aGJxV0duSjN3czd6b1BPbGc4NnBmYXBDdE8rZFBsUzc3aEtpWTVBV2JtNWlobldzZzZJMmdLZFNiTGxDRVdEK1oxYXNIUGNkaExYcXUvSFc0YlJMdEhyelJFWmRIMDZGMGZvTlE1emVXUlJ3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=55527701988 User Story Map for Stets Home (Miro)
+Карта пользовательских историй, критерии и сценарии приемки: 
+<a href="https://miro.com/welcomeonboard/VklkQWV0ZnR2Q2Q4cjEvTVFSS1g5aGJxV0duSjN3czd6b1BPbGc4NnBmYXBDdE8rZFBsUzc3aEtpWTVBV2JtNWlobldzZzZJMmdLZFNiTGxDRVdEK1oxYXNIUGNkaExYcXUvSFc0YlJMdEhyelJFWmRIMDZGMGZvTlE1emVXUlJ3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=55527701988=/" target="_blank">User Story Map for Stets Home</a> (Miro)
 
 Dhttps://drive.google.com/file/d/1RpuWj2Fu1K3Ec2idKtJ4WeJaplfskOPS/view?usp=sharing DFD- и ER-диаграммы (.drawio)
 
