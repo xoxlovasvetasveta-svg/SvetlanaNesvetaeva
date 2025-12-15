@@ -6,12 +6,12 @@
 Карта пользовательских историй, критерии и сценарии приемки: 
 <a href="https://miro.com/welcomeonboard/VklkQWV0ZnR2Q2Q4cjEvTVFSS1g5aGJxV0duSjN3czd6b1BPbGc4NnBmYXBDdE8rZFBsUzc3aEtpWTVBV2JtNWlobldzZzZJMmdLZFNiTGxDRVdEK1oxYXNIUGNkaExYcXUvSFc0YlJMdEhyelJFWmRIMDZGMGZvTlE1emVXUlJ3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=55527701988=/" target="_blank">User Story Map for Stets Home</a> (Miro)
 
-Dhttps://drive.google.com/file/d/1RpuWj2Fu1K3Ec2idKtJ4WeJaplfskOPS/view?usp=sharing DFD- и ER-диаграммы (.drawio)
+<a href="https://drive.google.com/file/d/1RpuWj2Fu1K3Ec2idKtJ4WeJaplfskOPS/view?usp=sharing=/" target="_blank"> DFD- и ER-диаграммы (.drawio)
 
-https://disk.yandex.ru/i/X_uM_f0dQo5eCA Словарь данных (.docx)
+<a href="https://disk.yandex.ru/i/X_uM_f0dQo5eCA=/" target="_blank"> Словарь данных (.docx)
 
-https://www.figma.com/design/8OeqxDYKjOyluGk33ljJr0/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--Copy-?node-id=4-581&t=rw9NHpFUEI9cAVvd-1 Интерактивный прототип пользовательского интерфейса (Figma)
+<a href="https://www.figma.com/design/8OeqxDYKjOyluGk33ljJr0/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--Copy-?node-id=4-581&t=rw9NHpFUEI9cAVvd-1=/" target="_blank"> Интерактивный прототип пользовательского интерфейса (Figma)
 
-https://disk.yandex.ru/i/2BQTZ4HDTINoTQ Программа и методика испытаний (.docx)
+<a href="https://disk.yandex.ru/i/2BQTZ4HDTINoTQ=/" target="_blank"> Программа и методика испытаний (.docx)
 
-https://disk.yandex.ru/i/YRhXE2_-DOfLvw Видеозапись демонстрации прототипа для заказчика (Яндекс диск)
+<a href="https://disk.yandex.ru/i/YRhXE2_-DOfLvw=/" target="_blank"> Видеозапись демонстрации прототипа для заказчика (Яндекс диск)
